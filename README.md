@@ -51,7 +51,7 @@
 ### #5 [2021 UPDATE] CREATE REACT APP
 
 - [x] #5.0 Introduction
-- [x] #5.1 Tour of CRA
+- [] #5.1 Tour of CRA
 
 ---
 
