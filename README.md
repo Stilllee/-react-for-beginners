@@ -4,54 +4,10 @@
 
 ---
 
-### #1 [2021 UPDATE] INTRODUCTION
-
-- [x] #1.1
-- [x] #1.2 Why React
-- [x] #1.3 Requirements
-
----
-
-### #2 [2021 UPDATE] THE BASICS OF REACT
-
-- [x] #2.0 Introduction
-- [x] #2.1 Before React
-- [x] #2.2 Our First React Element
-- [x] #2.3 Events in React
-- [x] #2.4 Recap
-- [x] #2.5 JSX
-- [x] #2.6 JSX part Two
-
----
-
-### #3 [2021 UPDATE] STATE
-
-- [x] #3.0 Understanding State
-- [x] #3.1 setState part One
-- [x] #3.2 setState part Two
-- [x] #3.3 Recap
-- [x] #3.4 State Functions
-- [x] #3.5 Inputs and State
-- [x] #3.6 State Practice part One
-- [x] #3.7 State Practice part Two
-- [x] #3.8 Recap
-- [x] #3.9 Final Practice and Recap
-
----
-
-### #4 [2021 UPDATE] PROPS
-
-- [x] #4.0 Props
-- [x] #4.1 Memo
-- [x] #4.2 Prop Types
-- [x] #4.3 Recap
-
----
-
 ### #5 [2021 UPDATE] CREATE REACT APP
 
 - [x] #5.0 Introduction
-- [] #5.1 Tour of CRA
+- [x] #5.1 Tour of CRA
 
 ---
 
