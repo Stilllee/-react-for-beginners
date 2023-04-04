@@ -45,6 +45,8 @@
 - [x] #4.2 Prop Types
 - [x] #4.3 Recap
 
+---
+
 ### #5 [2021 UPDATE] CREATE REACT APP
 
 - [x] #5.0 Introduction
