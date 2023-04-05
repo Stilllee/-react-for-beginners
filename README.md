@@ -60,7 +60,7 @@
 - [x] #6.1 useEffect
 - [x] #6.2 Deps
 - [x] #6.3 Recap
-- [ ] #6.4 Cleanup
+- [x] #6.4 Cleanup
 
 ---
 
