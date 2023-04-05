@@ -56,10 +56,10 @@
 
 ### #6. [2021 UPDATE] EFFECTS
 
-- [ ] #6.0 Introduction
-- [ ] #6.1 useEffect
-- [ ] #6.2 Deps
-- [ ] #6.3 Recap
+- [x] #6.0 Introduction
+- [x] #6.1 useEffect
+- [x] #6.2 Deps
+- [x] #6.3 Recap
 - [ ] #6.4 Cleanup
 
 ---
