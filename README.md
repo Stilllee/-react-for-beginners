@@ -67,7 +67,7 @@
 ### #7. [2021 UPDATE] PRACTICE MOVIE APP
 
 - [x] #7.0 To Do List part One
-- [ ] #7.1 To Do List part Two
+- [x] #7.1 To Do List part Two
 - [ ] #7.2 Coin Tracker
 - [ ] #7.3 Movie App part One
 - [ ] #7.4 Movie App part Two
