@@ -69,7 +69,7 @@
 - [x] #7.0 To Do List part One
 - [x] #7.1 To Do List part Two
 - [x] #7.2 Coin Tracker
-- [ ] #7.3 Movie App part One
+- [x] #7.3 Movie App part One
 - [ ] #7.4 Movie App part Two
 - [ ] #7.5 React Router
 - [ ] #7.6 Parameters
