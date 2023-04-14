@@ -4,13 +4,13 @@ import Detail from './routes/Detail';
 
 const App = createBrowserRouter([
   {
-  path:"/",
-  element:<Home />,
+    path: '/',
+    element: <Home />,
   },
   {
-    path:"/movie",
-    element:<Detail />,
-    },
+    path: '/movie/:id',
+    element: <Detail />,
+  },
 ]);
 
 export default App;
