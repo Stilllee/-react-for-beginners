@@ -109,8 +109,8 @@
 
 ### #11 STATE
 
-- [ ] #11.0 Class Components and State
-- [ ] #11.1 All you need to know about State
+- [x] #11.0 Class Components and State
+- [x] #11.1 All you need to know about State
 - [ ] #11.2 Component Life Cycle
 - [ ] #11.3 Planning the Movie Component
 
