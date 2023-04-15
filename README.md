@@ -120,8 +120,8 @@
 
 - [x] #12.0 Fetching Movies from API
 - [x] #12.1 Rendering the Movies
-- [ ] #12.2 Styling the Movies
-- [ ] #12.3 Adding Genres
+- [x] #12.2 Styling the Movies
+- [x] #12.3 Adding Genres
 - [ ] #12.4 Styles Timelapse
 - [ ] #12.5 Cutting the summary
 
