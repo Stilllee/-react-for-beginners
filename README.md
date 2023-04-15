@@ -135,8 +135,8 @@
 
 ### #13 CONCLUSIONS
 
-- [ ] #13.0 Deploying to Github Pages
-- [ ] #13.1 Are we done?
+- [x] #13.0 Deploying to Github Pages
+- [x] #13.1 Are we done?
 
 ---
 
