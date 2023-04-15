@@ -74,9 +74,9 @@
 - [x] #7.5 React Router
 - [x] #7.6 Parameters
 - [x] #7.7 Publishing
-- [ ] #7.8 Conclusions
-- [ ] #7.9 Styles
-- [ ] #7.10 Next Steps
+- [x] #7.8 Conclusions
+- [x] #7.9 Styles
+- [x] #7.10 Next Steps
 
 ---
 
