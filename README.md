@@ -74,56 +74,62 @@
 - [x] #7.5 React Router
 - [x] #7.6 Parameters
 - [x] #7.7 Publishing
+<<<<<<< HEAD
 - [ ] #7.8 Conclusions
 - [ ] #7.9 Styles
 - [ ] #7.10 Next Steps
+=======
+- [x] #7.8 Conclusions
+- [x] #7.9 Styles
+- [x] #7.10 Next Steps
+>>>>>>> legacy
 
 ---
 
 ### #8 INTRODUCTION
 
-- [ ] #8.0 Read this First
-- [ ] #8.1 Introduction
-- [ ] #8.2 Requirements
-- [ ] #8.3 Why React
+- [x] #8.0 Read this First
+- [x] #8.1 Introduction
+- [x] #8.2 Requirements
+- [x] #8.3 Why React
 
 ---
 
 ### #9 SETUP
 
-- [ ] #9.0 Creating your first React App
-- [ ] #9.1 Creating a Github Repository
-- [ ] #9.2 How does React work?
+- [x] #9.0 Creating your first React App
+- [x] #9.1 Creating a Github Repository
+- [x] #9.2 How does React work?
 
 ---
 
 ### #10 JSX & PROPS
 
-- [ ] #10.0 Creating your first React Component
-- [ ] #10. Reusable Components with JSX + Props
-- [ ] #10.2 Dynamic Component Generation
-- [ ] #10.3 map Recap
-- [ ] #10.4 Protection with PropTypes
+- [x] #10.0 Creating your first React Component
+- [x] #10. Reusable Components with JSX + Props
+- [x] #10.2 Dynamic Component Generation
+- [x] #10.3 map Recap
+- [x] #10.4 Protection with PropTypes
 
 ---
 
 ### #11 STATE
 
-- [ ] #11.0 Class Components and State
-- [ ] #11.1 All you need to know about State
-- [ ] #11.2 Component Life Cycle
-- [ ] #11.3 Planning the Movie Component
+- [x] #11.0 Class Components and State
+- [x] #11.1 All you need to know about State
+- [x] #11.2 Component Life Cycle
+- [x] #11.3 Planning the Movie Component
 
 ---
 
 ### #12 MAKING THE MOVIE APP
 
-- [ ] #12.0 Fetching Movies from API
-- [ ] #12.1 Rendering the Movies
-- [ ] #12.2 Styling the Movies
-- [ ] #12.3 Adding Genres
-- [ ] #12.4 Styles Timelapse
-- [ ] #12.5 Cutting the summary
+- [x] #12.0 Fetching Movies from API
+- [x] #12.1 Rendering the Movies
+- [x] #12.2 Styling the Movies
+- [x] #12.3 Adding Genres
+- [x] #12.4 Styles Timelapse
+- [x] #12.5 Cutting the summary
 
 ---
 
