@@ -69,39 +69,39 @@
 - [x] #7.0 To Do List part One
 - [x] #7.1 To Do List part Two
 - [x] #7.2 Coin Tracker
-- [ ] #7.3 Movie App part One
-- [ ] #7.4 Movie App part Two
-- [ ] #7.5 React Router
-- [ ] #7.6 Parameters
-- [ ] #7.7 Publishing
-- [ ] #7.8 Conclusions
-- [ ] #7.9 Styles
-- [ ] #7.10 Next Steps
+- [x] #7.3 Movie App part One
+- [x] #7.4 Movie App part Two
+- [x] #7.5 React Router
+- [x] #7.6 Parameters
+- [x] #7.7 Publishing
+- [x] #7.8 Conclusions
+- [x] #7.9 Styles
+- [x] #7.10 Next Steps
 
 ---
 
 ### #8 INTRODUCTION
 
-- [ ] #8.0 Read this First
-- [ ] #8.1 Introduction
-- [ ] #8.2 Requirements
-- [ ] #8.3 Why React
+- [x] #8.0 Read this First
+- [x] #8.1 Introduction
+- [x] #8.2 Requirements
+- [x] #8.3 Why React
 
 ---
 
 ### #9 SETUP
 
-- [ ] #9.0 Creating your first React App
-- [ ] #9.1 Creating a Github Repository
-- [ ] #9.2 How does React work?
+- [x] #9.0 Creating your first React App
+- [x] #9.1 Creating a Github Repository
+- [x] #9.2 How does React work?
 
 ---
 
 ### #10 JSX & PROPS
 
-- [ ] #10.0 Creating your first React Component
-- [ ] #10. Reusable Components with JSX + Props
-- [ ] #10.2 Dynamic Component Generation
+- [x] #10.0 Creating your first React Component
+- [x] #10. Reusable Components with JSX + Props
+- [x] #10.2 Dynamic Component Generation
 - [ ] #10.3 map Recap
 - [ ] #10.4 Protection with PropTypes
 
