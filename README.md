@@ -73,7 +73,7 @@
 - [x] #7.4 Movie App part Two
 - [x] #7.5 React Router
 - [x] #7.6 Parameters
-- [ ] #7.7 Publishing
+- [x] #7.7 Publishing
 - [ ] #7.8 Conclusions
 - [ ] #7.9 Styles
 - [ ] #7.10 Next Steps
