@@ -102,8 +102,8 @@
 - [x] #10.0 Creating your first React Component
 - [x] #10. Reusable Components with JSX + Props
 - [x] #10.2 Dynamic Component Generation
-- [ ] #10.3 map Recap
-- [ ] #10.4 Protection with PropTypes
+- [x] #10.3 map Recap
+- [x] #10.4 Protection with PropTypes
 
 ---
 
