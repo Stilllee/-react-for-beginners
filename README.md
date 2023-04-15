@@ -142,8 +142,8 @@
 
 ### #14 ROUTING BONUS
 
-- [ ] #14.0 Getting Ready for the Router
-- [ ] #14.1 Building the Router
-- [ ] #14.2 Building the Navigation
-- [ ] #14.3 Sharing Props Between Routers
-- [ ] #14.4 Redirecting
+- [x] #14.0 Getting Ready for the Router
+- [x] #14.1 Building the Router
+- [x] #14.2 Building the Navigation
+- [x] #14.3 Sharing Props Between Routers
+- [x] #14.4 Redirecting
